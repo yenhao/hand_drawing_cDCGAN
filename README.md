@@ -5,7 +5,7 @@ Condition GAN on [Google's hand drawing dataset](https://github.com/googlecreati
 
 ---
 ## Model
-Training via Condition DC GAN architecture, implemented by pytorch.
+Training via conditional DCGAN architecture, implemented by pytorch.
 
 ---
 ## Experiments
